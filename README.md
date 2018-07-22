@@ -1,6 +1,2 @@
-echo "# The-War-to-End-all-Wars-Mod" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/0Azukii0/The-War-to-End-all-Wars-Mod.git
-git push -u origin master
+                                                     The War to End all Wars
+                     is a mod that is based on a single question, And if the Second Empire won the Franco-Prussian War? 
